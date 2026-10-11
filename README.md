@@ -32,7 +32,7 @@ Marine Corps veteran with more than 15 years of experience across armed security
 
 Hands-on experience with C/C++ firmware, JavaScript regression tests, Python validation scripts, and Bash/shell workflows across Linux and Windows environments. Developing skills in debugging, code review, and writing and running code tests; foundational training in PowerShell and SQL.
 
-Authorized lab practice in reconnaissance, enumeration, network discovery, packet analysis, vulnerability assessment, and exploitation. Web security training covers authentication, access control/IDOR, SQL injection, and file inclusion, supported by TCP/IP, DNS, and HTTP fundamentals.
+Practice in reconnaissance, enumeration, network discovery, packet analysis, vulnerability assessment, and exploitation. Web security training covers authentication, access control/IDOR, SQL injection, and file inclusion, supported by TCP/IP, DNS, and HTTP fundamentals.
 
 **Security foundations:** cryptography, log analysis, incident response, digital forensics, SIEM, firewalls, and intrusion detection.
 
