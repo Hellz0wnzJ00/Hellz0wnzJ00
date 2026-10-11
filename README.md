@@ -26,9 +26,13 @@ From the **HellzGate Project by Hellz (Sean Clossey)**. Fork it, build on it, an
 
 ## Coding and security experience
 
-Hands-on experience with C/C++ firmware, JavaScript regression tests, Python validation scripts, and Bash/shell workflows across Linux and Windows environments.
+Hands-on experience with C/C++ firmware, JavaScript regression tests, Python validation scripts, and Bash/shell workflows across Linux and Windows environments. Developing skills in debugging, code review, and writing and running code tests; foundational training in PowerShell and SQL.
 
-**White-hat security focus:** ethical hacking and authorized testing, with ongoing learning in networking and web application security. Developing skills in debugging, code review, and writing and running code tests.
+**White-hat security:** authorized lab practice in reconnaissance, enumeration, network discovery, packet analysis, vulnerability assessment, and exploitation. Web security training covers authentication, access control/IDOR, SQL injection, and file inclusion, supported by TCP/IP, DNS, and HTTP fundamentals.
+
+**Security foundations:** cryptography, log analysis, incident response, digital forensics, SIEM, firewalls, and intrusion detection.
+
+Completed **Cyber Security 101** and **Pre Security (Legacy)** on [TryHackMe](https://tryhackme.com/p/Hellz). Continuing hands-on training in ethical hacking and defensive security.
 
 ## Open-source contribution
 
