@@ -24,6 +24,10 @@ From the **HellzGate Project by Hellz (Sean Clossey)**. Fork it, build on it, an
 - [HellzGate website](https://hellzgate.com/)
 - [Project updates, hardware photos, and setup guide](https://github.com/Hellz0wnzJ00/hellzgate)
 
+## Physical security background
+
+Marine Corps veteran with more than 15 years of experience across armed security, protective services, investigations, asset protection, and emergency management. Current work includes explosive detection K9 handling; previous roles include airport security supervision, evidence handling, incident reporting, and coordination with law enforcement.
+
 ## Coding and security experience
 
 Hands-on experience with C/C++ firmware, JavaScript regression tests, Python validation scripts, and Bash/shell workflows across Linux and Windows environments. Developing skills in debugging, code review, and writing and running code tests; foundational training in PowerShell and SQL.
