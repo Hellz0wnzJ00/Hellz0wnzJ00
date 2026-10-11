@@ -32,8 +32,6 @@ Hands-on experience with C/C++ firmware, JavaScript regression tests, Python val
 
 **Security foundations:** cryptography, log analysis, incident response, digital forensics, SIEM, firewalls, and intrusion detection.
 
-Completed **Cyber Security 101** and **Pre Security (Legacy)** on [TryHackMe](https://tryhackme.com/p/Hellz). Continuing hands-on training in ethical hacking and defensive security.
-
 ## Open-source contribution
 
 Investigated ESP32-C5 I²C slave failures and proposed fixes, acknowledged in Espressif's merged [PR #12952](https://github.com/espressif/arduino-esp32/pull/12952).
