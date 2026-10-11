@@ -1,4 +1,4 @@
-# Hellz 🔥
+# Hellz
 
 Building **HellzGate**, a multi-node wireless research platform based on ESP32-C5 hardware.
 
