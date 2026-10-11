@@ -24,9 +24,11 @@ From the **HellzGate Project by Hellz (Sean Clossey)**. Fork it, build on it, an
 - [HellzGate website](https://hellzgate.com/)
 - [Project updates, hardware photos, and setup guide](https://github.com/Hellz0wnzJ00/hellzgate)
 
-## Coding experience
+## Coding and security experience
 
-Hands-on experience with C/C++ firmware, JavaScript regression tests, Python validation scripts, and Linux build and test workflows. Currently developing skills in debugging, code review, and writing and running code tests.
+Hands-on experience with C/C++ firmware, JavaScript regression tests, Python validation scripts, and Bash/shell workflows across Linux and Windows environments.
+
+**White-hat security focus:** ethical hacking and authorized testing, with ongoing learning in networking and web application security. Developing skills in debugging, code review, and writing and running code tests.
 
 ## Open-source contribution
 
