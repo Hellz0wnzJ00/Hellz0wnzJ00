@@ -1,4 +1,4 @@
-# Hellz
+# Hellz 🔥
 
 Building **HellzGate**, a multi-node wireless research platform based on ESP32-C5 hardware.
 
@@ -23,6 +23,10 @@ From the **HellzGate Project by Hellz (Sean Clossey)**. Fork it, build on it, an
 
 - [HellzGate website](https://hellzgate.com/)
 - [Project updates, hardware photos, and setup guide](https://github.com/Hellz0wnzJ00/hellzgate)
+
+## Coding experience
+
+Hands-on experience with C/C++ firmware, JavaScript regression tests, Python validation scripts, and Linux build and test workflows. Currently developing skills in debugging, code review, and writing and running code tests.
 
 ## Open-source contribution
 
