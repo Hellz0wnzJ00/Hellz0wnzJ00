@@ -28,6 +28,10 @@ From the **HellzGate Project by Hellz (Sean Clossey)**. Fork it, build on it, an
 
 [![WDGWars](https://wdgwars.pl/card/482-TTH4WCYD.svg)](https://wdgwars.pl/)
 
+## WiGLE
+
+[![WiGLE](https://wigle.net/bi/7L39znEGFjs5mhnShu9kRQ.png)](https://wigle.net/)
+
 ## Open-source contribution
 
 Investigated ESP32-C5 I²C slave failures and proposed fixes, acknowledged in Espressif's merged [PR #12952](https://github.com/espressif/arduino-esp32/pull/12952).
