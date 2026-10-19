@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Hellz — HellzGate</title><desc id="desc">Wireless research, hardware and firmware. Enter the Gate.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08090c"/><stop offset="1" stop-color="#181018"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern><linearGradient id="red"><stop stop-color="#ff263b"/><stop offset="1" stop-color="#8a1028"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="278" rx="18" fill="url(#bg)" stroke="#3e2029"/><rect x="2" y="2" width="1196" height="276" rx="18" fill="url(#grid)"/>
+<path d="M40 42H218M40 42V72M1160 238H982M1160 238V208" fill="none" stroke="#d31f36" stroke-width="2"/>
+<rect x="53" y="84" width="5" height="116" fill="url(#red)"/>
+<text x="82" y="84" fill="#f34b5c" font-size="14" font-family="monospace" letter-spacing="5">ENTER THE GATE</text>
+<text x="78" y="154" fill="#f7f3f4" font-size="68" font-weight="800" font-family="Arial,sans-serif" letter-spacing="6">HELLZ</text>
+<text x="83" y="190" fill="#bcb3bc" font-size="16" font-family="monospace" letter-spacing="2">WIRELESS RESEARCH / HARDWARE / FIRMWARE</text>
+<g transform="translate(990 134)" fill="none" stroke="#cf2138"><circle r="60" stroke-opacity=".25"/><circle r="42" stroke-opacity=".4"/><path d="M-70 0H70M0-70V70" stroke-opacity=".3"/><path d="M-30 34V-20L0-48L30-20V34H15V-14L0-29L-15-14V34Z" stroke-width="3"/><path d="M0-14V42" stroke-width="3"/></g>
+<text x="83" y="239" fill="#8c7e88" font-size="12" font-family="monospace" letter-spacing="3">HELLZGATE / ESP32-C5</text>
+</svg>
