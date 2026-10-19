@@ -1,10 +1,22 @@
-# Hellz
+<p align="center">
+  <img src="assets/hellz-banner.svg" alt="Hellz — HellzGate. Wireless research, hardware and firmware." width="100%">
+</p>
 
 Building **HellzGate**, a multi-node wireless research platform based on ESP32-C5 hardware.
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![ESP-IDF](https://img.shields.io/badge/ESP--IDF-ESP32--C5-E7352C)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-171419?style=for-the-badge&amp;logo=c&amp;logoColor=ef3340" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-171419?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=ef3340" alt="C++">
+  <img src="https://img.shields.io/badge/ESP--IDF-ESP32--C5-b51f34?style=for-the-badge&amp;labelColor=171419" alt="ESP-IDF / ESP32-C5">
+</p>
+
+<p align="center">
+  <a href="https://hellzgate.com/">Website</a> ·
+  <a href="https://github.com/Hellz0wnzJ00/hellzgate-espnow-cluster">Firmware</a> ·
+  <a href="https://discord.gg/hellzgate">Community</a>
+</p>
+
+---
 
 ## HellzGate ESP-NOW Cluster Firmware — Open-Source Beta
 
@@ -24,13 +36,23 @@ From the **HellzGate Project by Hellz (Sean Clossey)**. Fork it, build on it, an
 - [HellzGate website](https://hellzgate.com/)
 - [Project updates, hardware photos, and setup guide](https://github.com/Hellz0wnzJ00/hellzgate)
 
-## WDGWars
+## Wireless field stats
 
-[![WDGWars](https://wdgwars.pl/card/482-TTH4WCYD.svg)](https://wdgwars.pl/)
+<p align="center">
+  <img src="https://img.shields.io/badge/WDGWARS-FIELD%20STATS-b51f34?style=for-the-badge&amp;labelColor=171419" alt="WDGWars field stats">
+</p>
+<p align="center">
+  <a href="https://wdgwars.pl/"><img src="https://wdgwars.pl/card/482-TTH4WCYD.svg" alt="Hellz WDGWars live statistics" width="620"></a>
+</p>
 
-## WiGLE
+<p align="center">
+  <img src="https://img.shields.io/badge/WiGLE-CONTRIBUTIONS-b51f34?style=for-the-badge&amp;labelColor=171419" alt="WiGLE contributions">
+</p>
+<p align="center">
+  <a href="https://wigle.net/"><img src="https://wigle.net/bi/7L39znEGFjs5mhnShu9kRQ.png" alt="Hellz WiGLE live statistics" width="300"></a>
+</p>
 
-[![WiGLE](https://wigle.net/bi/7L39znEGFjs5mhnShu9kRQ.png)](https://wigle.net/)
+---
 
 ## Open-source contribution
 
